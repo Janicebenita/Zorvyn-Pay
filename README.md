@@ -19,7 +19,7 @@ This project was developed as part of the **Zorvyn Frontend Developer Internship
 
 ## 🌐 Live Demo
 
-👉 https://your-vercel-link.vercel.app
+👉 https://zorvyn-pay.vercel.app/
 
 ---
 
